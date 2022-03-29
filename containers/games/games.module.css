@@ -1,0 +1,17 @@
+.tracker__games {
+    display: flex;
+    flex-direction: row;
+    padding: 4rem 6rem;
+}
+
+.tracker__games_links {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-right: 5rem;
+}
+.tracker__games_links img {
+    width: 100%;
+    height: 100%;
+}
