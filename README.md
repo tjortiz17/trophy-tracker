@@ -1,3 +1,9 @@
+## Version History
+
+1.0.0.1 - Updated front page styling.
+
+1.0.0.0 - Initial bare bones styling and functionality. Able to click on the Sly 4 option to be redirected to the page with the trophies ready to be marked as complete.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
